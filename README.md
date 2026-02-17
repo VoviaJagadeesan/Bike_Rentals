@@ -24,8 +24,6 @@ The final model selected is **Random Forest Regressor**, chosen based on superio
 * Registered users show the highest correlation with total rentals
 * Non-linear relationships justify ensemble modeling techniques
 
----
-
 # Models Implemented
 
 * Decision Tree
@@ -43,7 +41,7 @@ The final model selected is **Random Forest Regressor**, chosen based on superio
 The trained model was serialized using `joblib` and saved as `model.pkl` for reuse.
 It can be integrated into a Streamlit or Flask application for real-time rental demand prediction.
 
-🔗 **Model File:** [Download model.pkl](https://drive.google.com/file/d/1JTI-hfZN7m5gTLXyLTACbwq_FhEluIYL/view?usp=drive_link)
+ **Model File:** [Download model.pkl](https://drive.google.com/file/d/1JTI-hfZN7m5gTLXyLTACbwq_FhEluIYL/view?usp=drive_link)
 
 # Tech Stack
 
@@ -54,8 +52,3 @@ It can be integrated into a Streamlit or Flask application for real-time rental 
 * Seaborn
 * Scikit-learn
 * Joblib
-
-If you want it even sharper (under 200 words total), tell me — I’ll compress it like a pro portfolio piece.
-The final trained model pkl file can be accessed below:
-
-🔗 [Download model.pkl](https://drive.google.com/file/d/1JTI-hfZN7m5gTLXyLTACbwq_FhEluIYL/view?usp=drive_link)
