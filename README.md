@@ -41,7 +41,7 @@ The final model selected is **Random Forest Regressor**, chosen based on superio
 The trained model was serialized using `joblib` and saved as `model.pkl` for reuse.
 It can be integrated into a Streamlit or Flask application for real-time rental demand prediction.
 
- **Model File:** [Download model.pkl](https://drive.google.com/file/d/1JTI-hfZN7m5gTLXyLTACbwq_FhEluIYL/view?usp=drive_link)
+ **Project File:** [Download file(Google Drive)](https://drive.google.com/drive/folders/1Aysed7L5oouM2qx0M5cUeeixYBzYB5wK?usp=drive_link)
 
 # Tech Stack
 
